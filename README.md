@@ -1,3 +1,4 @@
+![monsters_rolodex](https://github.com/Prithviraj-debug/monsters_roledex/assets/57887221/66ee808f-2fa9-47b6-bb37-8d54d0f137a3)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
